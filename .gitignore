@@ -2,3 +2,5 @@
 .vscode/settings.json
 .pytest_cache/
 .__pycache__/
+Time calculator/__pycache__/test_module.cpython-39.pyc
+Time calculator/__pycache__/time_calculator.cpython-39.pyc
